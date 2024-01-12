@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(2, 2, 12);
+    font-family:'Montserrat', sans-serif;;
+}
+.center{
+text-align: center;
+}
+header{
+    color: white;
+    display: flex;
+}
+.head{
+    padding-right: 280pt;
+}
+.head1{
+    padding-right: 400pt;
+
+}
+.head2{
+    padding-right: 108pt;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    color: rgb(255, 255, 255);
+    margin-right: 60px;
+    font-size: 17px;
+}
+ul li{
+   
+    display:inline-block;    
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.5 ease;
+}
+.button{
+    background-color:rgb(230, 255, 4) ;
+    color: rgb(0, 0, 0);
+}
+.main{
+    color: rgb(255, 255, 255);
+    font-size: 160px;
+    line-height: 0cm;
+    padding-top: 70px;
+}
+.main1{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    line-height: 0cm;
+}
+.main2{
+    color: rgb(230, 255, 4);
+    font-size: 30px;
+    padding-bottom: 20pt;
+}
+footer{
+    color: rgb(255, 255, 255);
+    display: flex;
+    padding-top: 55pt;
+}
+.foot{
+    padding-left: 1pt;
+    padding-right: 400pt;
+}
+.foot1{
+    padding-right: 350pt;
+}
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: rgb(56, 155, 10);
+    border-radius: 50%;
+    display: inline-block;
+}
+.zero{
+    color: rgb(230, 255, 4);
+    font-size: 160px;
+
+}
